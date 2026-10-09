@@ -1,0 +1,6 @@
+{
+  "name": "NutritionBudy - Tactile Chrono-Nutrition & Calorie Tracker",
+  "description": "Tactile skeuomorphic food calorie counter, water intake apparatus, AI optical food telemetry, and weekly metabolic ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
